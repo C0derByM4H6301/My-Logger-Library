@@ -1,3 +1,5 @@
+# https://github.com/C0derByM4H6301
+# Log reader for my log files
 from rich.console import Console
 from rich.table import Table
 import os
